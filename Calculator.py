@@ -39,7 +39,7 @@ def calculate():
     except ValueError:
         result.config(text='Enter a valid number!')
     except ZeroDivisionError:
-        result.config("Error", "Cannot divide by zero")
+        result.config(text="Error: Cannot divide by zero")
         
 
 #Lables
@@ -64,5 +64,6 @@ tk.Button(m, text="Calculate", bg="green", fg="white", command=calculate).grid(r
 #result 
 
 tk.Label(m, text="Result :", bg="grey").grid(row=5, column=0, pady=5, padx=5, sticky="w")
+
 
 m.mainloop()
