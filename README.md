@@ -12,7 +12,7 @@ Screenshot
 <img width="440" height="401" alt="Capture" src="https://github.com/user-attachments/assets/597832bf-39bd-4a63-b95d-82767fec47f7" />
 
 
-Tip: Replace the path above with an actual image in your repo, for example images/screenshot.png.
+
 
 Requirements
 Python 3.10+
@@ -23,7 +23,7 @@ Installation
 Clone the repository:
 
 bash
-git clone <gh repo clone devflux25/python-gui-calculator>
+git clone <https://github.com/devflux25/python-gui-calculator.git>
 cd <repo-folder>
 Run
 bash
