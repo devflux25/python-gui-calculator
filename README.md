@@ -33,7 +33,7 @@ If the filename is different (e.g., app.py or main.py), update the command accor
 Usage
 Click buttons or type numbers/operators (if keyboard support is added)
 
-Press = to evaluate the expression
+Press Calulate to evaluate the expression
 
 Use C/AC to clear the display and CE to clear the last entry (if present)
 
