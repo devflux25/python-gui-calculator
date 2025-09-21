@@ -4,7 +4,7 @@ A simple desktop calculator built with Python Tkinter for basic arithmetic opera
 Features
 Addition, subtraction, multiplication, and division with basic error handling
 
-Clean Tkinter interface with buttons for digits and operators
+Clean Tkinter interface with buttons for  operators
 
 Optional keyboard input support (if implemented)
 
